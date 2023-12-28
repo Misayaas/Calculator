@@ -1,2 +1,5 @@
-# Calculator
-A simple calculator
+# 计算器
+在现代的编程语言中，表达式求值是必须要支持的一部分，比如 Python 的命令行模式，可以作为一个增强版的计算器来使用。
+![image](https://github.com/Misayaas/Calculator/assets/113764876/ab7a53f0-26db-406c-9070-921075fd6641)
+
+本项目要求实现一个类似的表达式求值工具，接受变量赋值（比如 a = 233）和表达式求值（比如 a + 114514）两种语句，检查输入的错误，并计算表达式的值
